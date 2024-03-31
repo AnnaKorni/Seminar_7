@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\obj\Debug\net8.0\homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\obj\Debug\net8.0\homework2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\obj\Debug\net8.0\homework2.AssemblyInfo.cs
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\obj\Debug\net8.0\homework2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\bin\Debug\net8.0\homework2.exe
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\bin\Debug\net8.0\homework2.deps.json
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\bin\Debug\net8.0\homework2.runtimeconfig.json
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\bin\Debug\net8.0\homework2.dll
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\bin\Debug\net8.0\homework2.pdb
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\obj\Debug\net8.0\homework2.dll
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\obj\Debug\net8.0\refint\homework2.dll
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\obj\Debug\net8.0\homework2.pdb
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\obj\Debug\net8.0\homework2.genruntimeconfig.cache
+C:\Users\User\Desktop\Geek brain\Знакомство c языками программирования\Семинары\Seminar_07\homework2\obj\Debug\net8.0\ref\homework2.dll
